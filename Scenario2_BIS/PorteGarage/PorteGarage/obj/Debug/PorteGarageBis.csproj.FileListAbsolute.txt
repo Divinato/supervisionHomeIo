@@ -1,0 +1,12 @@
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\bin\Debug\PorteGarage.exe.config
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\bin\Debug\PorteGarage.exe
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\bin\Debug\PorteGarage.pdb
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\bin\Debug\EngineIO.dll
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarageBis.csprojResolveAssemblyReference.cache
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarage.Form1.resources
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarage.Properties.Resources.resources
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarageBis.csproj.GenerateResource.cache
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarageBis.csproj.CoreCompileInputs.cache
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarageBis.csproj.CopyComplete
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarage.exe
+Q:\supervisionHomeIo\Scenario2_BIS\PorteGarage\PorteGarage\obj\Debug\PorteGarage.pdb

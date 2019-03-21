@@ -1,0 +1,12 @@
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\bin\Debug\Supervision.exe.config
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\bin\Debug\Supervision.exe
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\bin\Debug\Supervision.pdb
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\bin\Debug\EngineIO.dll
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.csprojAssemblyReference.cache
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.Form1.resources
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.Properties.Resources.resources
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.csproj.GenerateResource.cache
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.csproj.CoreCompileInputs.cache
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.csproj.CopyComplete
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.exe
+Q:\supervisionHomeIo\Supervision\Supervision\Supervision\obj\Debug\Supervision.pdb
